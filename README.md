@@ -1,6 +1,6 @@
 # Agentic Memory: Teaching AI Agents to Remember
 
-*Why AI models forget everything, and how to fix it — with a runnable [Jupyter notebook](agentic_memory_tutorial.ipynb) you can follow along with.*
+*Why AI models forget everything, and how to fix it - with a runnable [Jupyter notebook](agentic_memory_tutorial.ipynb) you can follow along with.*
 
 ![Agentic Memory — How AI Agents Remember](agentic-memory-banner.png)
 
@@ -178,19 +178,6 @@ One security rule that is not optional: every file path the model sends to a mem
 **Keep users separate.** One memory store per user, always. And never save secrets — API keys and passwords do not belong in memory files, no matter how helpfully the model offers to remember them.
 
 **Memory is not a fix for bad prompts.** If the agent needs the same instruction every single session, put it in the system prompt — don't make the memory system carry it.
-
----
-me.
-
----
-
-## Further reading
-
-- **Park et al., [*Generative Agents*](https://arxiv.org/abs/2304.03442) (2023)** — where the scoring formula comes from
-- **Packer et al., [*MemGPT*](https://arxiv.org/abs/2310.08560) (2023)** — treating the context window like RAM, with memory paged in and out
-- **[OpenAI docs](https://platform.openai.com/docs)** — function calling, structured outputs, prompt caching, embeddings
-
----
 
 *An agent without memory answers questions. An agent with memory builds a relationship — with the user, with the codebase, with its own past work. The difference is a few hundred lines of prompt-assembly logic, and now you know how to write them.*
 
