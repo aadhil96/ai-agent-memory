@@ -1,0 +1,1 @@
+User's standup is at 9:30 IST.

@@ -1,0 +1,52 @@
+[
+  {
+    "fact": "Aadhil is a data engineer.",
+    "category": "User Profession",
+    "created_at": "2026-07-12T10:07:49.754799+00:00"
+  },
+  {
+    "fact": "Aadhil is working on a legal CRM side project.",
+    "category": "User Project",
+    "created_at": "2026-07-12T10:07:49.754811+00:00"
+  },
+  {
+    "fact": "Aadhil is based in Colombo.",
+    "category": "User Location",
+    "created_at": "2026-07-12T10:07:49.754814+00:00"
+  },
+  {
+    "fact": "Aadhil is using React with Tailwind for his project.",
+    "category": "User Technology Preference",
+    "created_at": "2026-07-12T10:07:49.754818+00:00"
+  },
+  {
+    "fact": "Aadhil prefers code examples without semicolons.",
+    "category": "User Coding Style",
+    "created_at": "2026-07-12T10:07:49.754820+00:00"
+  },
+  {
+    "fact": "The user is adding an invoice PDF export feature to their CRM.",
+    "category": "User Project",
+    "created_at": "2026-07-12T10:09:06.007144+00:00"
+  },
+  {
+    "fact": "The user's CRM is likely built using JavaScript and React.",
+    "category": "User Technology Stack",
+    "created_at": "2026-07-12T10:09:06.007183+00:00"
+  },
+  {
+    "fact": "User is working on a CRM project.",
+    "category": "Project",
+    "created_at": "2026-07-12T10:09:10.430530+00:00"
+  },
+  {
+    "fact": "User is implementing an export feature for invoices as PDFs.",
+    "category": "Project",
+    "created_at": "2026-07-12T10:09:10.430542+00:00"
+  },
+  {
+    "fact": "User was recommended to use the `pdf-lib` library for PDF export functionality.",
+    "category": "Technical Suggestion",
+    "created_at": "2026-07-12T10:09:10.430544+00:00"
+  }
+]

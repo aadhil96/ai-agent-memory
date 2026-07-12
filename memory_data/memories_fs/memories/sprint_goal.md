@@ -1,0 +1,1 @@
+User's current sprint goal is shipping the invoice module.

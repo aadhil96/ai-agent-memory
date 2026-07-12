@@ -1,0 +1,17 @@
+# Secrets — never commit API keys
+.env
+.env.*
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
